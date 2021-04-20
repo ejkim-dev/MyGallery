@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">My Gallery</string>
+    <string name="get_img_error_msg">에러!!!</string>
 </resources>
